@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/usereducer-counter/static/css/main.9a55daa7.css",
+    "main.js": "/usereducer-counter/static/js/main.89ff41ec.js",
+    "static/js/787.d107e480.chunk.js": "/usereducer-counter/static/js/787.d107e480.chunk.js",
+    "index.html": "/usereducer-counter/index.html",
+    "main.9a55daa7.css.map": "/usereducer-counter/static/css/main.9a55daa7.css.map",
+    "main.89ff41ec.js.map": "/usereducer-counter/static/js/main.89ff41ec.js.map",
+    "787.d107e480.chunk.js.map": "/usereducer-counter/static/js/787.d107e480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a55daa7.css",
+    "static/js/main.89ff41ec.js"
+  ]
+}
